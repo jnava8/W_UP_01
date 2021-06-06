@@ -84,3 +84,4 @@ The null hypothesis is rejected because it explains that the p-value is low. Ski
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+In conclusion, I was able to do a variable analysis by copying and paste formulas from the numerical cat file helper file  that helped me boxplot information. After copy and pasting the formulas I edited the formulas by entering the appropriate information given to me by the table chart. I was able to boxplot the information, and  was able to compare variables directly and determined that skilled players practice more push ups than line players. 
