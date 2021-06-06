@@ -58,6 +58,7 @@ basicCN + geom_boxplot()
 ```{r}
 basicCN + geom_boxplot(notch=TRUE,outlier.color = "red") + stat_boxplot(geom ='errorbar') + labs(title="Fancy notch boxplot \n with 2 lines")
 ```
+The boxplot information compares results for the amount of pushups done by line players versus skilled players.The boxplot information reveals that skilled players practice more pushups than line players. Skilled players show case a higher amount of push ups within their 25th percentile than the number of push ups line players practiced within their 75th percentile. 
 
 ### Numerical Descriptive Results
 
