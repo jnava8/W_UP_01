@@ -77,7 +77,7 @@ Numerical results display the average number of push ups done by a line player i
 ```{r}
 t.test(pushups~position,data=mydata)
 ```
-The null hypothesis is rejected becuase it explains that the p-value is low. Skilled players on average practice three times the regular line player. 
+The null hypothesis is rejected because it explains that the p-value is low. Skilled players on average practice three times the regular line player. 
 
 
 # Discussion and Conclusion
